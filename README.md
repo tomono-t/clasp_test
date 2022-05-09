@@ -74,6 +74,7 @@ clasp clone {PROJECT_ID}
 ```
 
 PROJECT_IDは以下のGASを記述する
+
 ex. https://script.google.com/u/0/home/projects/{PROJECT_ID}/edit
 
 
@@ -98,9 +99,11 @@ clasp open
 ### ローカルで実行
 
 GCPのプロジェクトと紐付ける必要性あり
+
 https://t-cr.jp/memo/3ad17a27aa48af71
 
 また、ディレクトリ構造をネストさせているとログイン情報(.clasp.json)の参照先がおかしくなる
+
 https://github.com/google/clasp/issues/92
 
 必要性が出てきたら検討
