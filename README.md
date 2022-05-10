@@ -53,7 +53,7 @@ npm install @types/google-apps-script
 clasp create --title {PROJECT_NAME} --parentId {DRIVE_FOLDER_ID} --rootDir ./
 ```
 
-DRIVE_FOLDER_IDは以下のGoogleDriveURLを記述する
+DRIVE_FOLDER_IDはGoogleDriveのリソースIDを記述する
 ex. https://drive.google.com/drive/folders/{DRIVE_FOLDER_ID}
 
 
@@ -73,7 +73,7 @@ cd {PROJECT_NAME}
 clasp clone {PROJECT_ID}
 ```
 
-PROJECT_IDは以下のGASを記述する
+PROJECT_IDはGASの以下リソースIDを記述する
 
 ex. https://script.google.com/u/0/home/projects/{PROJECT_ID}/edit
 
