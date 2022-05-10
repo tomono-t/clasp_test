@@ -102,7 +102,7 @@ GCPのプロジェクトと紐付ける必要性あり
 
 https://t-cr.jp/memo/3ad17a27aa48af71
 
-また、ディレクトリ構造をネストさせているとログイン情報(.clasp.json)の参照先がおかしくなる
+また、ディレクトリ構造をネストさせているとログイン情報(.clasprc.json)の参照先がおかしくなる
 
 https://github.com/google/clasp/issues/92
 
